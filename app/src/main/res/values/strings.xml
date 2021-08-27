@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecureSharedPreferences</string>
+    <string name="fetch">Fetch</string>
+    <string name="fetch_secret">Fetch Secret</string>
+    <string name="save">Save</string>
+    <string name="secret_value">Secret Value</string>
+    <string name="secret_name">Secret Name</string>
+    <string name="save_secret">Save Secret</string>
+    <string name="use_securesharedpreferences">Use SecureSharedPreferences</string>
+    <string name="use_normal_sharedpreferences">Use Normal SharedPreferences</string>
+</resources>
