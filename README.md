@@ -1,1 +1,1 @@
-# EncriptedSharedpreferences
+# EncryptedSharedPreferences
